@@ -1,4 +1,4 @@
-# Lucas Dutra! Fullstack Developer no Grupo Jofege
+# Lucas Dutra! Fullstack Developer do Grupo Jofege
 
 <hr>
 

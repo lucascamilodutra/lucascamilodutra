@@ -5,11 +5,7 @@
 
 👩‍💻 Atualmente eu trabalho como [Desenvolvedor FullStack Pleno] Grupo Jofege.
 
-### Eu já trabalhei com... 🔧
-
 **Tecnologias e Ferramentas**
-
-<!-- (Aqui você pode adicionar tecnologias que aprendeu no curso, já listamos algumas delas, e outras que já domina)) -->
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -20,17 +16,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-<!-- (Já colocar tecnologias do On Demand que aprende no curso)) -->
-
-### Eu estou estudando... 🧩
-<!-- (Aqui você pode adicionar tecnologias que está estudando, inclusive para aumentar essa lista você listamos algumas das tecnologias ensinadas na nossa [Assinatura On Demand](https://cubos.academy/cubosondemand)) -->
-
 ![Flutter](https://img.shields.io/badge/flutter-%2320232a.svg?style=for-the-badge&logo=flutter&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/angular.js-6DA55F?style=for-the-badge&logo=angular&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white))
+![Angular](https://img.shields.io/badge/angular.js-6DA55F?style=for-the-badge&logo=java&logoColor=white)
 ![Php](https://img.shields.io/badge/php-%23ED8B00.svg?style=for-the-badge&logo=php&logoColor=white)
-
 
 ### GitHub Stats ⚡
 <div>

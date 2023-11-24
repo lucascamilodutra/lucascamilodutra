@@ -1,12 +1,6 @@
-# academy-template-readme-profile
-
-<!-- Isso é um comentário, não irá aparecer no seu perfil
-(Abaixo você seleciona o curso que você está fazendo no momento) -->
-
-👩‍💻 Atualmente eu trabalho como [Desenvolvedor FullStack Pleno] Grupo Jofege.
+# Desenvolvedro FullStack Pleno - Grupo Jofege
 
 **Tecnologias e Ferramentas**
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -24,6 +18,7 @@
 <div>
 <a href="https://github.com/lucascamilodutra">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascamilodutra&layout=compact&langs_count=7&theme=dracula"/>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucascamilodutra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascamilodutra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 

@@ -17,7 +17,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Flutter](https://img.shields.io/badge/flutter-%2320232a.svg?style=for-the-badge&logo=flutter&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/angular.js-6DA55F?style=for-the-badge&logo=java&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-6DA55F?style=for-the-badge&logo=java&logoColor=white)
 ![Php](https://img.shields.io/badge/php-%23ED8B00.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ### GitHub Stats ⚡
